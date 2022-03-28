@@ -56,7 +56,7 @@ dkms.conf
 
 build/
 sdkconfig.old
-sdkconfig
+# sdkconfig
 
 # Jetbrains CLion IDE
 cmake-build-debug/
@@ -67,4 +67,4 @@ cmake-build-debug/
 platformio.ini
 
 # VS Code
-.vscode/
+# .vscode/
